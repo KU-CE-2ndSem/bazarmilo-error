@@ -1,0 +1,5 @@
+*.vscode*
+a.out*
+*.db
+index\.cpp
+vcpkg*
